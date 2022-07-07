@@ -12,6 +12,10 @@
 # print(0b11010)        #     26
 # print(0B11010)        #     26
 
+# print(bin(4))       #  0b10
+# print(0b10)         #    4
+# print(0B10)         #    4
+
 '''oct type'''
 'oct means oct-8'
 # print(oct(80))         #  0o120
